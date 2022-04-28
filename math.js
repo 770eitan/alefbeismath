@@ -44,5 +44,7 @@ const reishM = reish+shin
 const tafM= taf+vav
 
 const alefF= alefM+lamedM+peiM
+const beisF= beisM+yudM+tafM
+const gimmelF = gimmelM+memM+lamedM
 
-console.log(alefF, alefM, lamedM,peiM)
+console.log(gimmelF, gimmelM, memM,lamedM)
